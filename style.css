@@ -3,6 +3,7 @@
     height: 600px; 
     width: 900px;
     position: relative;
+    left:16%;
   }
   .flag > div{
     background-color:#002868 ;
